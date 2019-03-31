@@ -10,3 +10,7 @@ blockquote{
 	border: 1px white solid; 
 	text-align: center;
 }
+
+body: h1{
+	text-align: center;
+}
