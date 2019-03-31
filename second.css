@@ -1,0 +1,15 @@
+.content {
+	width: 600px;
+	margin:auto;
+	font-family:secondary;
+	text-align:left; 
+	font-family:verdana;
+}
+
+.notes{
+	background:#e3e3e3;
+	float:left;
+}
+aside {
+	background:#e3e3e3;
+}
